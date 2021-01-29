@@ -1,0 +1,16 @@
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.exe
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.deps.json
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.runtimeconfig.json
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.runtimeconfig.dev.json
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.dll
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.pdb
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.csprojAssemblyReference.cache
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.AssemblyInfoInputs.cache
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.AssemblyInfo.cs
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.csproj.CoreCompileInputs.cache
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.dll
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.pdb
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.genruntimeconfig.cache
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\comfy\Source\QueueApp\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\comfy\Source\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.csproj.CopyComplete

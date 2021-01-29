@@ -1,0 +1,1 @@
+This was created while I followed along with the following Microsoft Learn module: https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage
